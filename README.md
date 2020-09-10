@@ -19,9 +19,11 @@
 ## Usage Instructions:-
 
 * Install Node.js
-* **Validate the node and npm is properly installed or not.**
-  **Commands**
+* **Validate the node and npm is properly installed or not.** <br />
+  **Commands:-**
   * node --version
   * npm --version
+* fork this repository
+* 
 
 
