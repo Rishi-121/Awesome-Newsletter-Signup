@@ -27,10 +27,11 @@
 * Fork this repository.
 * Clone the repository using **git clone https://github.com/Rishi-121/Awesome-Newsletter-Signup.git** command. 
 * Now open the terminal/command prompt and use npm to install [express](https://www.npmjs.com/package/express), [nodemon](https://www.npmjs.com/package/nodemon) and and [body-parser](https://www.npmjs.com/package/body-parser) 3rd-party packages. <br />
-  **Commands:-**
+```javascript
   * npm i express - For page routing and local-server connectivity
   * npm i nodemon - For auto-reload at every change
   * npm i body-parser - For post-request 
+```
 * Now run this application use **nodemon app.js** (nodemon activation command) or **node app.js**.
 * **Get you own API key and list ID of Mailchimp API.**
 * Get all the email ids and names at Mailchimp Audience Dashboard. 
