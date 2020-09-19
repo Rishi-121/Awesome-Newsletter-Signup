@@ -21,8 +21,8 @@
 * Install Node.js.
 * **Validate the node and npm is properly installed or not.** 
 ```javascript
-  * node --version
-  * npm --version
+node --version (Check the node version)
+npm --version (Check the npm version)
 ```
 * Fork this repository.
 * Clone the repository using **git clone https://github.com/Rishi-121/Awesome-Newsletter-Signup.git** command. 
