@@ -32,7 +32,7 @@ npm i express (For page routing and local-server connectivity)
 npm i nodemon (For auto-reload at every change)
 npm i body-parser - For post-request 
 ```
-* Now run this application use **nodemon app.js** (nodemon activation command) or **node app.js**.
+* Now run this application use ```nodemon app.js``` (nodemon activation command) or ```node app.js```.
 * **Get you own API key and list ID of Mailchimp API.**
 * Get all the email ids and names at Mailchimp Audience Dashboard. 
 
