@@ -20,14 +20,14 @@
 
 * Install Node.js.
 * **Validate the node and npm is properly installed or not.** 
-```javascript
+```
 node --version (Check the node version)
 npm --version (Check the npm version)
 ```
 * Fork this repository.
-* Clone the repository using ```javascript git clone https://github.com/Rishi-121/Awesome-Newsletter-Signup.git``` command. 
+* Clone the repository using ```git clone https://github.com/Rishi-121/Awesome-Newsletter-Signup.git``` command. 
 * Now open the terminal/command prompt and use npm to install [express](https://www.npmjs.com/package/express), [nodemon](https://www.npmjs.com/package/nodemon) and and [body-parser](https://www.npmjs.com/package/body-parser) 3rd-party packages. <br />
-```javascript
+```
 npm i express (For page routing and local-server connectivity)
 npm i nodemon (For auto-reload at every change)
 npm i body-parser - For post-request 
